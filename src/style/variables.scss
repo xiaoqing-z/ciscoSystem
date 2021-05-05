@@ -1,0 +1,30 @@
+//brand
+$brand-primary: #0076d5;
+
+//font
+$font-family-base: "Roboto", sans-serif;
+$font-size-base: 14px;
+
+$font-size-xxl: 32px; //2em
+$font-size-xl: 24px; //1.5em @16px
+$font-size-lg: 20px;
+$font-size-md: 18px;
+$font-size-sm: $font-size-base;
+$font-size-xs: 12px;
+$font-size-xxs: 10px;
+
+//weight
+$font-weight-normal: 400;
+$font-weight-medium: 500;
+$font-size-bold: 700;
+
+//Buttons
+$btn-font-weight: normal;
+
+$btn-primary-color: $brand-primary;
+$btn-primary-: #fff;
+$btn-primary-border: 1px solid $brand-primary;
+
+$btn-border-radius-round: 16px;
+$btn-border-radius-smooth: $border-radius;
+$btn-border-radius-sharp: 0px;
